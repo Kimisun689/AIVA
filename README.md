@@ -1,4 +1,6 @@
-# AIVA — Turn Ideas into Videos Instantly
+<p align="center">
+  <h1>AIVA — Turn Ideas into Videos Instantly</h1>
+</p>
 
 <p align="center">
   <strong>Your imagination, turned into video — in seconds.</strong><br/>
