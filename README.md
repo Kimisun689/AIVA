@@ -1,18 +1,13 @@
+<h1 align="center">AIVA — Turn Ideas into Videos Instantly</h1>
 <p align="center">
-  <h1>AIVA</h1>
-  <p><strong>Turn Ideas into Videos Instantly</strong></p>
-  <p><sub>Your imagination, turned into video — in seconds.</sub></p>
+Your imagination, turned into video — in seconds.<br/>
+From idea to final video, fully automated.
+</p>
+<p align="center">
+<a href="https://aiva.website">Live Demo</a> ·
+<a href="https://kimisun.cn">Build in Public</a>
 </p>
 
-<p align="center">
-  <strong>Your imagination, turned into video — in seconds.</strong><br/>
-  <sub>From idea to final video, fully automated.</sub>
-</p>
-
-<p align="center">
-  <a href="https://aiva.website">Live Demo</a> ·
-  <a href="https://kimisun.cn">Build in Public</a>
-</p>
 
 ---
 
