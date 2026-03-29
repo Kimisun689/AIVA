@@ -1,5 +1,7 @@
 <p align="center">
-  <h1>AIVA — Turn Ideas into Videos Instantly</h1>
+  <h1>AIVA</h1>
+  <p><strong>Turn Ideas into Videos Instantly</strong></p>
+  <p><sub>Your imagination, turned into video — in seconds.</sub></p>
 </p>
 
 <p align="center">
